@@ -21,3 +21,5 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 
 ## 📱 App Preview
 
+https://github.com/user-attachments/assets/f8a9eca5-c9d5-488d-a4f0-76628345c448
+
