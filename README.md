@@ -1,16 +1,23 @@
 # movieapp
 
-A new Flutter project.
+A Flutter Project 'Movie App' made using TMDB API.
 
-## Getting Started
+## Movie Box
 
-This project is a starting point for a Flutter application.
+A Flutter application that displays trending movies, popular movies, top-rated movies, and provides movie descriptions, recommendations, and search functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Watch trailers of new movies/series
+- Search any movies/series
+- Complete Description of the every Movies/Series
+- Movie/Series rating,reviews,reveneue,shortstory
+- Movie/Series add to favoriates
+- Recommend similar movies/series from description page
+- Trending weekly/daily movies/series
+- Popular now movies/series
+- Top-rated movies/series
+- Upcomming section
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 App Preview
+
